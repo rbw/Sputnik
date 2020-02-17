@@ -2,7 +2,6 @@
   <img width="256" height="256" src="extras/space.png">
   <br><br>
   <b>Sputnik</b><br>
-  <i>Agnostic monitoring</i>
 </p>
 
 The idea with Sputnik is to provide an easily deployed and performant monitoring agent for executing health probes and relaying health data. It's also a framework for building plugins.
